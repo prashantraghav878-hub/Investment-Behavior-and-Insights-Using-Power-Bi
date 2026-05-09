@@ -5,6 +5,7 @@ A Power BI dashboard project focused on analyzing investor behavior, investment 
 This project transforms raw investment data into meaningful business insights through interactive visualizations and analytics.
 
 # Dashboard Preview
+![](https://github.com/prashantraghav878-hub/Investment-Behavior-and-Insights-Using-Power-Bi/blob/main/Investment%20Behaviour%20Dashboard%20snapshot.PNG)
 
 
 # Project Overview
@@ -24,8 +25,10 @@ The analysis can help financial institutions, analysts, and investment firms bet
 # Key Insights
 
 ***Investor Demographics***
+
 - Total Investors: 40
 - Average Age: 28
+
 ***Investment Frequency***
 
 Most investors prefer:
@@ -33,6 +36,7 @@ Most investors prefer:
 - Monthly investments over weekly or daily investments.
 
 ***Gender-Based Analysis***
+
 - Male investors make up a larger percentage of total investors.
 - Investment preferences vary significantly between male and female investors.
 
@@ -50,6 +54,7 @@ Top investment awareness sources:
 - Financial Consultants
 - Newspapers & Magazines
 
+
 ***Investment Objectives***
 
 Common investor goals include:
@@ -59,6 +64,7 @@ Common investor goals include:
 - Fund Diversification
 
 # Tools & Technologies Used
+
 - Power BI
 - Power Query
 - DAX
@@ -66,6 +72,7 @@ Common investor goals include:
 - Interactive Dashboard Design
 
 # Dashboard Features
+
 - Interactive charts and filters
 - KPI cards
 - Gender-based comparison
@@ -75,12 +82,14 @@ Common investor goals include:
 - Source-based investor analysis
 
 # How to Use
+
 - Clone or download the repository
 - Open the .pbit file in Power BI Desktop
 - Load the dataset if prompted
 - Explore the dashboard interactively
 
 ***Business Value***
+
 This dashboard helps:
 
 - Understand investor behavior patterns
