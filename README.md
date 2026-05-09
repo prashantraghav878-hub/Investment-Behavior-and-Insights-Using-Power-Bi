@@ -23,21 +23,22 @@ The analysis can help financial institutions, analysts, and investment firms bet
 
 # Key Insights
 
-- Investor Demographics
+***Investor Demographics***
 - Total Investors: 40
 - Average Age: 28
-- Investment Frequency
+***Investment Frequency***
 
-***Most investors prefer:***
+Most investors prefer:
 
 - Monthly investments over weekly or daily investments.
-- Gender-Based Analysis
+
+***Gender-Based Analysis***
 - Male investors make up a larger percentage of total investors.
 - Investment preferences vary significantly between male and female investors.
-- Investment Duration
 
-***Most participants prefer investments between:***
+***Investment Duration***
 
+Most participants prefer investments between:
 - 1–5 years
 - 3–5 years
 
@@ -78,16 +79,18 @@ Common investor goals include:
 - Open the .pbit file in Power BI Desktop
 - Load the dataset if prompted
 - Explore the dashboard interactively
-- Business Value
 
-***This dashboard helps:***
+***Business Value***
+This dashboard helps:
 
 - Understand investor behavior patterns
 - Improve financial product targeting
 - Analyze demographic investment trends
 - Support data-driven financial decisions
 - Enhance customer segmentation strategies
-- Future Enhancements
+
+***Future Enhancements***
+
 - Add predictive investment trend analysis
 - Integrate real-time financial data
 - Include regional investment comparisons
